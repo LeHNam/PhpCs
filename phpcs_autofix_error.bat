@@ -1,2 +1,2 @@
 REM https://github.com/squizlabs/PHP_CodeSniffer/wiki/Usage
-C:\xampp\PhpCs\php\php C:/xampp/PhpCs/phpcbf.phar -p -s -v --warning-severity=0  --standard=phpcs.xml  --colors --report-width=200  --ignore-annotations --report=full,code,summary %*
+C:\configPhpCs\PhpCs\php\php C:/configPhpCs/PhpCs/phpcbf.phar -p -s -v --warning-severity=0  --standard=phpcs.xml  --colors --report-width=200  --ignore-annotations --report=full,code,summary %*

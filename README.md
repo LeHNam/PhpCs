@@ -10,24 +10,29 @@ The PHP Coding Standards For PhpStorm In Windown
 ### Installing
 
 1.  Open Git Bash
-2.  Cd to xampp
+2. Create new folder 
+```
+mkdir C:/configPhpCs
+```
+
+3.  Cd to configPhpCs
 
 ```
-cd C:/xampp
+cd C:/configPhpCs
 ```
 
-3. Clone Folder
+4. Clone Folder
 
 ```
 git clone https://github.com/LeHNam/PhpCs.git
 ```
 
-4. Import File Settings C:\xampp\PhpCs\PhpCs.jar to PhpStorm
+5. Import File Settings C:\configPhpCs\PhpCs\PhpCs.jar to PhpStorm
 ```
 File > Import Settings
 ```
 
-5. You can setting keymap for tool Or Use Default
+6 You can setting keymap for tool Or Use Default
 
 ```
 File > Settings > KeyMap > Extand Tools
