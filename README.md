@@ -5,7 +5,6 @@ The PHP Coding Standards For PhpStorm In Windown
 
 ### Prerequisites
 - PhpStorm
-- Xampp
 
 ### Installing
 
