@@ -1,9 +1,9 @@
 This snapshot was automatically generated on
-Wed, 10 Oct 2018 03:09:21 +0000
+Wed, 05 Dec 2018 07:56:03 +0000
 
-Version: 7.2.11
+Version: 7.2.13
 Branch: HEAD
-Build: C:\php-snap-build\php72\vc15\x86\obj\Release_TS
+Build: C:\php-snap-build\php72\vc15\x64\obj\Release
 
 Built-in Extensions
 ===========================
@@ -47,18 +47,18 @@ mysqli
 Dependency information:
 Module: php_curl.dll
 ===========================
-	libcrypto-1_1.dll
-	libssl-1_1.dll
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
 	libssh2.dll
 	nghttp2.dll
 
-Module: libssl-1_1.dll
+Module: libssl-1_1-x64.dll
 ===========================
-	libcrypto-1_1.dll
+	libcrypto-1_1-x64.dll
 
 Module: libssh2.dll
 ===========================
-	libcrypto-1_1.dll
+	libcrypto-1_1-x64.dll
 
 Module: php_enchant.dll
 ===========================
@@ -75,38 +75,38 @@ Module: gmodule-2.dll
 
 Module: php_ftp.dll
 ===========================
-	libcrypto-1_1.dll
-	libssl-1_1.dll
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
 
 Module: php_intl.dll
 ===========================
-	icuuc62.dll
-	icuin62.dll
-	icuio62.dll
+	icuuc63.dll
+	icuin63.dll
+	icuio63.dll
 
-Module: icuuc62.dll
+Module: icuuc63.dll
 ===========================
-	icudt62.dll
+	icudt63.dll
 
-Module: icuin62.dll
+Module: icuin63.dll
 ===========================
-	icuuc62.dll
+	icuuc63.dll
 
-Module: icuio62.dll
+Module: icuio63.dll
 ===========================
-	icuuc62.dll
-	icuin62.dll
+	icuuc63.dll
+	icuin63.dll
 
 Module: php_ldap.dll
 ===========================
 	libsasl.dll
-	libcrypto-1_1.dll
-	libssl-1_1.dll
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
 
 Module: php_openssl.dll
 ===========================
-	libcrypto-1_1.dll
-	libssl-1_1.dll
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
 
 Module: php_pgsql.dll
 ===========================
@@ -114,12 +114,12 @@ Module: php_pgsql.dll
 
 Module: libpq.dll
 ===========================
-	libssl-1_1.dll
-	libcrypto-1_1.dll
+	libssl-1_1-x64.dll
+	libcrypto-1_1-x64.dll
 
 Module: php_snmp.dll
 ===========================
-	libcrypto-1_1.dll
+	libcrypto-1_1-x64.dll
 
 Module: php_sodium.dll
 ===========================
