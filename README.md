@@ -1,11 +1,10 @@
-﻿﻿﻿﻿﻿# Php Cs For PhpStorm
+# Php Cs For PhpStorm
 
 The PHP Coding Standards For PhpStorm In Windown
 
 
 ### Prerequisites
 - PhpStorm
-- Xampp
 
 ### Installing
 
